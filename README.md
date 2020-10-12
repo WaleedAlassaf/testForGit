@@ -1,2 +1,2 @@
 # testForGit
-Testing terminal git
+Here's a test for my terminal git.
